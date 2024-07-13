@@ -1,0 +1,101 @@
+Hugo_Symbol	Entrez_Gene_Id	Center	NCBI_Build	Chromosome	Start_Position	End_Position	Strand	Variant_Classification	Variant_Type	Reference_Allele	Tumor_Seq_Allele1	Tumor_Seq_Allele2	GENE_IN_ONCOKB	VARIANT_IN_ONCOKB	MUTATION_EFFECT	MUTATION_EFFECT_CITATIONS	ONCOGENIC	LEVEL_1	LEVEL_2	LEVEL_3A	LEVEL_3B	LEVEL_4	LEVEL_R1	LEVEL_R2	LEVEL_R3	HIGHEST_LEVEL	TX_CITATIONS	LEVEL_Dx1	LEVEL_Dx2	LEVEL_Dx3	HIGHEST_DX_LEVEL	DX_CITATIONS	LEVEL_Px1	LEVEL_Px2	LEVEL_Px3	HIGHEST_PX_LEVEL	PX_CITATIONS
+TNFRSF14	0	.	GRCh37	chr1	2489260	2489260	+	Silent	SNP	C	C	T	True	False	Unknown																						
+TNFRSF14	0	.	GRCh37	chr1	2489261	2489262	+	Frame_Shift_Ins	INS	-	-	CCTGG	True	False	Likely Loss-of-function	27982078;27103745;27257180;24307582;29625055;22017438;27297871;26650888;21402741;20884631;30066919;11742858	Likely Oncogenic													FL	LEVEL_Dx3	20884631;23297126;21941365					
+TNFRSF14	0	.	GRCh37	chr1	2489263	2489263	+	Missense_Mutation	SNP	G	G	C	True	False	Unknown																						
+RPL22	0	.	GRCh37	chr1	6257785	6257785	+	Frame_Shift_Del	DEL	T	T	-	False	False	Unknown																						
+ERRFI1	0	.	GRCh37	chr1	8073500	8073500	+	Missense_Mutation	SNP	T	T	G	True	False	Unknown																						
+ERRFI1	0	.	GRCh37	chr1	8073506	8073507	+	Frame_Shift_Ins	INS	-	-	A	True	False	Likely Loss-of-function	16648858;17599051;26280531;21576352;11003669;22701735;16247031;11843178;16819504;18046415;25735773;12833145;20421427;24550739;15556944	Likely Oncogenic																				
+ERRFI1	0	.	GRCh37	chr1	8073519	8073519	+	Silent	SNP	C	C	A	True	False	Unknown																						
+ERRFI1	0	.	GRCh37	chr1	8073594	8073594	+	Silent	SNP	A	A	G	True	False	Unknown																						
+ERRFI1	0	.	GRCh37	chr1	8073598	8073598	+	Missense_Mutation	SNP	G	G	T	True	False	Unknown																						
+ERRFI1	0	.	GRCh37	chr1	8073599	8073600	+	Frame_Shift_Ins	INS	-	-	CCCCC	True	False	Likely Loss-of-function	16648858;17599051;26280531;21576352;11003669;22701735;16247031;11843178;16819504;18046415;25735773;12833145;20421427;24550739;15556944	Likely Oncogenic																				
+ERRFI1	0	.	GRCh37	chr1	8073601	8073601	+	Missense_Mutation	SNP	G	G	A	True	False	Unknown																						
+ERRFI1	0	.	GRCh37	chr1	8073603	8073604	+	Frame_Shift_Ins	INS	-	-	C	True	False	Likely Loss-of-function	16648858;17599051;26280531;21576352;11003669;22701735;16247031;11843178;16819504;18046415;25735773;12833145;20421427;24550739;15556944	Likely Oncogenic																				
+ERRFI1	0	.	GRCh37	chr1	8073604	8073605	+	Frame_Shift_Ins	INS	-	-	G	True	False	Likely Loss-of-function	16648858;17599051;26280531;21576352;11003669;22701735;16247031;11843178;16819504;18046415;25735773;12833145;20421427;24550739;15556944	Likely Oncogenic																				
+PIK3CD	0	.	GRCh37	chr1	9775737	9775742	+	In_Frame_Del	DEL	CCCTTC	CCCTTC	-	True	False	Unknown																						
+PIK3CD	0	.	GRCh37	chr1	9775742	9775743	+	In_Frame_Ins	INS	-	-	GAAGGG	True	False	Unknown																						
+PIK3CD	0	.	GRCh37	chr1	9780813	9780813	+	Missense_Mutation	SNP	G	G	T	True	False	Unknown																						
+PIK3CD	0	.	GRCh37	chr1	9784337	9784337	+	Missense_Mutation	SNP	T	T	G	True	False	Unknown																						
+PIK3CD	0	.	GRCh37	chr1	9784500	9784500	+	Intron	DEL	C	C	-	True	False	Unknown																						
+PIK3CD	0	.	GRCh37	chr1	9784502	9784503	+	Intron	INS	-	-	CCGAGGG	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11169676	11169676	+	Intron	SNP	C	C	T	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11172886	11172886	+	Intron	SNP	C	C	T	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11174851	11174851	+	Intron	SNP	G	G	A	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11181326	11181326	+	Missense_Mutation	SNP	A	A	C	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11186764	11186765	+	Frame_Shift_Del	DEL	GT	GT	-	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11186767	11186768	+	In_Frame_Ins	INS	-	-	CCA	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11186770	11186770	+	Silent	SNP	G	G	A	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11186771	11186771	+	Missense_Mutation	SNP	T	T	A	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11186778	11186778	+	Missense_Mutation	SNP	T	T	A	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11186779	11186779	+	Silent	SNP	T	T	C	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11186786	11186787	+	Frame_Shift_Ins	INS	-	-	AC	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11187893	11187893	+	Intron	SNP	T	T	C	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11188882	11188882	+	Intron	SNP	C	C	A	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11190730	11190730	+	Silent	SNP	G	G	A	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11190823	11190825	+	In_Frame_Del	DEL	CGC	CGC	-	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11190827	11190828	+	Frame_Shift_Del	DEL	TG	TG	-	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11199401	11199401	+	Missense_Mutation	SNP	G	G	T	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11199518	11199518	+	Intron	SNP	T	T	C	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11205058	11205058	+	Silent	SNP	C	C	T	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11272468	11272468	+	Silent	SNP	C	C	G	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11288758	11288758	+	Silent	SNP	G	G	A	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11291098	11291098	+	Nonsense_Mutation	SNP	A	A	T	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11291099	11291099	+	Missense_Mutation	SNP	A	A	T	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11291101	11291101	+	Missense_Mutation	SNP	A	A	C	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11291106	11291106	+	Missense_Mutation	SNP	G	G	C	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11291108	11291108	+	Missense_Mutation	SNP	T	T	G	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11298610	11298611	+	In_Frame_Ins	INS	-	-	ATT	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11298615	11298630	+	Frame_Shift_Del	DEL	TGTGCTCACTGTTCAG	TGTGCTCACTGTTCAG	-	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11298633	11298642	+	Frame_Shift_Del	DEL	AATGATCCGC	AATGATCCGC	-	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11298648	11298649	+	Frame_Shift_Ins	INS	-	-	A	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11300338	11300338	+	Intron	SNP	A	A	G	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11300587	11300587	+	Missense_Mutation	SNP	A	A	C	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11300592	11300592	+	Silent	SNP	A	A	C	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11300593	11300593	+	Missense_Mutation	SNP	G	G	C	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11301642	11301647	+	In_Frame_Del	DEL	CTCCTT	CTCCTT	-	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11301714	11301714	+	Silent	SNP	A	A	G	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11317207	11317207	+	Missense_Mutation	SNP	A	A	T	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11317211	11317211	+	Missense_Mutation	SNP	C	C	T	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11317213	11317213	+	Missense_Mutation	SNP	A	A	T	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11317216	11317216	+	Missense_Mutation	SNP	A	A	C	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11317217	11317217	+	Missense_Mutation	SNP	G	G	A	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11317224	11317224	+	Splice_Site	SNP	T	T	C	True	False	Unknown																						
+MTOR	0	.	GRCh37	chr1	11317225	11317225	+	Splice_Region	SNP	G	G	T	True	False	Unknown																						
+MTHFR	0	.	GRCh37	chr1	11853952	11853952	+	Intron	SNP	T	T	C	False	False	Unknown																						
+MTHFR	0	.	GRCh37	chr1	11854457	11854457	+	Silent	SNP	G	G	A	False	False	Unknown																						
+MTHFR	0	.	GRCh37	chr1	11856378	11856378	+	Missense_Mutation	SNP	G	G	A	False	False	Unknown																						
+MTHFR	0	.	GRCh37	chr1	11863172	11863172	+	Missense_Mutation	SNP	A	A	C	False	False	Unknown																						
+MTHFR	0	.	GRCh37	chr1	11863174	11863175	+	Frame_Shift_Ins	INS	-	-	TGCAGTA	False	False	Unknown																						
+MTHFR	0	.	GRCh37	chr1	11863199	11863199	+	Intron	SNP	G	G	T	False	False	Unknown																						
+MTHFR	0	.	GRCh37	chr1	11863201	11863202	+	Intron	INS	-	-	CTGCCTGCC	False	False	Unknown																						
+SPEN	0	.	GRCh37	chr1	16203058	16203058	+	Missense_Mutation	SNP	C	C	G	True	False	Unknown																						
+SPEN	0	.	GRCh37	chr1	16203067	16203067	+	Missense_Mutation	SNP	G	G	A	True	False	Unknown																						
+SPEN	0	.	GRCh37	chr1	16236006	16236006	+	Intron	SNP	T	T	A	True	False	Unknown																						
+SPEN	0	.	GRCh37	chr1	16242620	16242620	+	Splice_Region	SNP	C	C	A	True	False	Likely Loss-of-function	26297734	Likely Oncogenic																				
+SPEN	0	.	GRCh37	chr1	16248729	16248730	+	Intron	DEL	TT	TT	-	True	False	Unknown																						
+SPEN	0	.	GRCh37	chr1	16248729	16248729	+	Intron	DEL	T	T	-	True	False	Unknown																						
+SPEN	0	.	GRCh37	chr1	16248728	16248729	+	Intron	INS	-	-	T	True	False	Unknown																						
+SPEN	0	.	GRCh37	chr1	16248728	16248729	+	Intron	INS	-	-	TT	True	False	Unknown																						
+SPEN	0	.	GRCh37	chr1	16255142	16255143	+	Frame_Shift_Del	DEL	GA	GA	-	True	False	Likely Loss-of-function	26297734	Likely Oncogenic																				
+SPEN	0	.	GRCh37	chr1	16255550	16255551	+	Frame_Shift_Ins	INS	-	-	CCCCTTT	True	False	Likely Loss-of-function	26297734	Likely Oncogenic																				
+SPEN	0	.	GRCh37	chr1	16255644	16255644	+	Missense_Mutation	SNP	C	C	T	True	False	Unknown																						
+SPEN	0	.	GRCh37	chr1	16255961	16255961	+	Missense_Mutation	SNP	T	T	C	True	False	Unknown																						
+SPEN	0	.	GRCh37	chr1	16256007	16256007	+	Missense_Mutation	SNP	T	T	C	True	False	Unknown																						
+SPEN	0	.	GRCh37	chr1	16257484	16257484	+	Missense_Mutation	SNP	C	C	G	True	False	Unknown																						
+SPEN	0	.	GRCh37	chr1	16257488	16257489	+	Frame_Shift_Del	DEL	AG	AG	-	True	False	Likely Loss-of-function	26297734	Likely Oncogenic																				
+SPEN	0	.	GRCh37	chr1	16257491	16257491	+	Silent	SNP	A	A	C	True	False	Unknown																						
+SPEN	0	.	GRCh37	chr1	16257493	16257497	+	Frame_Shift_Del	DEL	ATTTA	ATTTA	-	True	False	Likely Loss-of-function	26297734	Likely Oncogenic																				
+SPEN	0	.	GRCh37	chr1	16257499	16257500	+	Frame_Shift_Ins	INS	-	-	T	True	False	Likely Loss-of-function	26297734	Likely Oncogenic																				
+SPEN	0	.	GRCh37	chr1	16257506	16257506	+	Frame_Shift_Del	DEL	A	A	-	True	False	Likely Loss-of-function	26297734	Likely Oncogenic																				
+SPEN	0	.	GRCh37	chr1	16257508	16257509	+	Nonsense_Mutation	INS	-	-	TAAAT	True	False	Likely Loss-of-function	26297734	Likely Oncogenic																				
+SPEN	0	.	GRCh37	chr1	16257510	16257510	+	Missense_Mutation	SNP	G	G	T	True	False	Unknown																						
+SPEN	0	.	GRCh37	chr1	16257511	16257512	+	Frame_Shift_Ins	INS	-	-	CT	True	False	Likely Loss-of-function	26297734	Likely Oncogenic																				
+SPEN	0	.	GRCh37	chr1	16257515	16257515	+	Missense_Mutation	SNP	C	C	G	True	False	Unknown																						
+SPEN	0	.	GRCh37	chr1	16259813	16259813	+	Missense_Mutation	SNP	A	A	G	True	False	Unknown																						
+SPEN	0	.	GRCh37	chr1	16260501	16260502	+	Frame_Shift_Ins	INS	-	-	G	True	False	Likely Loss-of-function	26297734	Likely Oncogenic																				
+SPEN	0	.	GRCh37	chr1	16260503	16260504	+	In_Frame_Ins	INS	-	-	GCT	True	False	Unknown																						
+SPEN	0	.	GRCh37	chr1	16260505	16260506	+	Frame_Shift_Ins	INS	-	-	TATCTCAGAGTTGTTTGTC	True	False	Likely Loss-of-function	26297734	Likely Oncogenic																				
+SPEN	0	.	GRCh37	chr1	16260912	16260912	+	Missense_Mutation	SNP	A	A	C	True	False	Unknown																						
+SPEN	0	.	GRCh37	chr1	16260915	16260915	+	Frame_Shift_Del	DEL	C	C	-	True	False	Likely Loss-of-function	26297734	Likely Oncogenic																				
+SPEN	0	.	GRCh37	chr1	16260916	16260916	+	Silent	SNP	C	C	T	True	False	Unknown																						
+SPEN	0	.	GRCh37	chr1	16260917	16260917	+	Missense_Mutation	SNP	G	G	A	True	False	Unknown																						
